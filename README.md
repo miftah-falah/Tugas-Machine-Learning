@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 🚀 Cara Menjalankan Proyek
 1. Clone atau unduh repositori ini ke komputer lokal Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/miftah-falah/Tugas-Machine-Learning.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
@@ -67,7 +67,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 3. Pastikan file dataset `Social_media_impact_on_life.csv` berada di direktori yang sama dengan file notebook.
 4. Buka Jupyter Notebook atau JupyterLab:
    ```bash
-   jupyter notebook main_2.ipynb
+   jupyter notebook main.ipynb
    ```
 5. Jalankan sel (*cells*) secara berurutan dari atas ke bawah.
 
