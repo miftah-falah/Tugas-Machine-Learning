@@ -62,7 +62,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd repository-name
+   cd Tugas-Machine-Learning
    ```
 3. Pastikan file dataset `Social_media_impact_on_life.csv` berada di direktori yang sama dengan file notebook.
 4. Buka Jupyter Notebook atau JupyterLab:
