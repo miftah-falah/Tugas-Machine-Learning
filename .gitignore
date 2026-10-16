@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments (jika Anda pakai)
+venv/
+env/
+.venv/
+
+# Log files (Opsional: Anda bisa memilih untuk tidak mengunggah log)
+*.log
