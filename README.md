@@ -32,3 +32,17 @@ Proyek ini mencakup seluruh siklus *machine learning*, mulai dari pemrosesan dat
 Buka terminal/command prompt dan instal pustaka yang dibutuhkan:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn joblib fastapi uvicorn pydantic streamlit requests
+
+
+## 📚 Referensi & Sumber Data
+
+1. **Dataset:**
+   * **Nama Dataset:** Social Media Impact on Life (4,500 data poin / 16 kolom).
+   * **Sumber / Platform:** [Kaggle Datasets](https://www.kaggle.com/)
+   * **Deskripsi:** Dataset mengenai pengaruh durasi dan kebiasaan penggunaan media sosial terhadap kondisi psikologis, kualitas tidur, dan performa akademik mahasiswa/siswa.
+
+2. **Pustaka & Framework (Dokumentasi Resmi):**
+   * **FastAPI:** [FastAPI Documentation](https://fastapi.tiangolo.com/) – *Framework web performa tinggi untuk pembuatan API di Python.*
+   * **Scikit-Learn:** [Scikit-Learn Documentation](https://scikit-learn.org/stable/) – *Pustaka machine learning untuk pembuatan pipeline preprocessing dan algoritma Random Forest.*
+   * **Streamlit:** [Streamlit Documentation](https://docs.streamlit.io/) – *Framework Python untuk membuat antarmuka web interaktif secara cepat.*
+   * **Joblib:** [Joblib Documentation](https://joblib.readthedocs.io/) – *Pustaka untuk serialisasi dan simpan-muat (save/load) model machine learning (`.pkl`).*
